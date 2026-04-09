@@ -1,0 +1,8 @@
+numpy
+scipy
+scikit-learn
+imbalanced-learn
+EMD-signal
+joblib
+pandas
+matplotlib
